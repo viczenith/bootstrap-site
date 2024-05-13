@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(47, 47, 47) !important;
+    box-shadow: 4px 4px 8px gray;
+}
+nav a{
+    color: white !important;
+}
+.home-section{
+    background-image: url('https://c.mql5.com/31/345/moving-averages-onoff-mt4-screen-3943.gif');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(232, 232, 232) !important;
+}
+.home-section .btn1{
+    background-color: teal;
+    color: white;
+}
+.about-section .btn-about{
+    background-color: teal;
+    color: rgb(232, 232, 232);
+}
